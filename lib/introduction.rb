@@ -1,4 +1,3 @@
-'ruby
-'# lib/introduction.rb
+# lib/introduction.rb
 def introduction (name)
-end'
+end
